@@ -6,3 +6,4 @@ Git has a mutable index called stage.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 try no-fast-forward merge
+The work is going to be finished...
